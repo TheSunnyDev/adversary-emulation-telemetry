@@ -4,6 +4,7 @@
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/TheSunnyDev/adversary-emulation-telemetry/blob/main/emulate-tor-traffic-telemetry.md)
+- [Tor Threat Hunt Timeline Report](https://github.com/user-attachments/files/27294750/Tor.Threat.Hunt.Timeline.Report.pdf) 
 
 ## Platforms and Languages Leveraged
 - Windows 11 Virtual Machines (Microsoft Azure)
@@ -163,3 +164,16 @@ The user "thesunnydev" on the "thesunnydev" device initiated and completed the i
 TOR usage was confirmed on the endpoint `thesunnydev` by the user `thesunnydev`. The device was isolated, and the user's direct manager was notified.
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
